@@ -1,0 +1,9 @@
+Faith - "What happened to this place...?"
+Vince - "Good question. A very dangerous creature had broken loose and been
+roaming this place, killing people on its path. It's still out there, but
+I know where it goes. Just follow my guide."
+Faith - "I don't know...why should I trust you?"
+Vince - "Did I mention that you can read memory from corpse?"
+Vince - "Go ahead, touch the nurse on the floor and you'll see that I'm telling
+the truth."
+Guide - Read memory from the dead nurse.

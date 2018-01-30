@@ -1,0 +1,5 @@
+// Nurse go to storage
+Nurse - "What a bad day, no injection left for MD-129."
+Nurse - "I think I can find some stocks in the Medical Research Lab, but I need
+a doctor for his password."
+Guide - Go back to Main Hall to find Dr. Wellington.

@@ -1,0 +1,11 @@
+Vince - "You must be wondering why there is a voice in your head."
+Vince - "And probably who are you also?"
+Faith - "Yes...?"
+Vince - "We are both test subjects of the facilities we're in right now. My name
+is Vince, and I have the ability to talk to people telepathically. You are
+Faith, gifted with the ability to read memories from corpse."
+Faith - "What in the world...?"
+Vince - "I'll tell you more as you make your way out of here. For now that's all
+you need to know."
+Vince - "Let's get out of this room."
+Guide - Navigate to the door to get out of the room.

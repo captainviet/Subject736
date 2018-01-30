@@ -1,0 +1,13 @@
+// Faith goes into Security's memory, whom was sitting in the Security Control
+room, checking camera console
+Security - "What on Earth is going on?"
+// Security checked the camera console to discover many bodies lying on the
+floor
+Security - "MAH GOSH!! Looks like they need help!! I must go up there!!"
+Guide - Go upstairs to help the unconscious people.
+// Click the control table, select button
+Security - "That's the alarm control for each floor. I don't think that's
+necessary for now..."
+// Security encountered Test Subject 736 as he exits his room, killed by her
+and returns control to Faith
+Faith - "Poor guy, didn't even know what's going on..."

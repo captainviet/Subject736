@@ -1,0 +1,18 @@
+// In Room 301, as Faith curiously read the prescription
+Faith - "NAME: FAITH"
+Faith - "PRESCRIPTION: PERMANENT MEMORY LOSS"
+Faith - "CAUSE: INCIDENT 736"
+
+// In Room 302, as Faith curiously read the prescription
+Faith - "NAME: KATHERINE"
+Faith - "PRESCRIPTION: PERMANENT MEMORY LOSS"
+Faith - "CAUSE: INCIDENT 736"
+
+// In Room 303, as Faith curiously read the prescription
+Faith - "NAME: BRIAN O'CONNELL, DR.
+Faith - "PRESCRIPTION: PERMANENT MEMORY LOSS"
+Faith - "CAUSE: INCIDENT 736"
+
+Faith - "NAME: JOE MCKINSEY, DR.
+Faith - "PRESCRIPTION: PERMANENT MEMORY LOSS"
+Faith - "CAUSE: INCIDENT 736"

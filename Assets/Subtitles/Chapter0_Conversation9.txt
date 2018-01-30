@@ -1,0 +1,3 @@
+// The creature has gone
+Vince - "Okay it's gone, you can go out now."
+Guide - Find the elevator and go to Level 2.

@@ -1,0 +1,4 @@
+// Disobedient
+Faith - "Oh no!"
+Vince - "Why Faith?? Why don't you listen to me??"
+// Faith is killed, screen fade to black, game is restarted

@@ -1,0 +1,10 @@
+// Recovering back from the vision, Faith gasps
+Faith - "Did she just...?"
+Vince - "Yes, it killed the nurse on sight. And it probably gonna do the same
+thing to you, so keep it out of sight."
+Vince - "Now I need you to come and help me, I'm currently stuck and cannot
+come to you on my own."
+Faith - "Okay, how can I find you?"
+Vince - "You're on Level 3. Take the elevator in the hall to your right, and go
+to Level 2. You will find me there."
+Guide - Find the elevator and go to Level 2.
